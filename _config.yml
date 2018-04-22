@@ -10,17 +10,17 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author: Shikhar Brajesh # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author-pic: https://secure.gravatar.com/avatar/3b7b514aec2aca6aa05003c993f8e419
+about-author: MS in CS student at University of Pennsylvania.
 
 # Contact links
-email: # Add your Email address
+email: shikharbrajesh9@gmail.com# Add your Email address
 phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
+website: sb299792458.github.io/sandbox # Add your website, do not add http://
+linkedin: https://www.linkedin.com/in/shikhar-brajesh-13055553/ # Add your Linkedin handle
+github: sb299792458 # Add your Github handle
+twitter: '@shikhar_brajesh' # Add your Twitter handle
+facebook: https://www.facebook.com/shikhar.brajesh# Add your Facebook handle
 instagram: # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
@@ -28,7 +28,7 @@ pinterest: # Add your Pinterest handle
 mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: shikharbrajesh # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
