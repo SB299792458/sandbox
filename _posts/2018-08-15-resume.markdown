@@ -1,0 +1,7 @@
+---
+layout: post
+title: Resume
+img: post-6.jpg # Add image post (optional)
+---
+
+Put link of general pdf resume
